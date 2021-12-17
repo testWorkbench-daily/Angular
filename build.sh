@@ -1,3 +1,3 @@
 npm install
 npm install -g @angular/cli
-ng build 
+npm run-script build
